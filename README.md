@@ -57,7 +57,7 @@ git clone https://github.com/tu_usuario/tu_repositorio.git
 cd tu_repositorio
 ```
 
-2. **Clonar el repositorio**
+2. **Instalar dependencias**
 ```bash
 pip install -r requirements.txt
 ```
