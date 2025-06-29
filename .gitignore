@@ -1,0 +1,13 @@
+# Ignorar archivos de espacio de trabajo de VS Code
+*.code-workspace
+
+# Ignorar configuración de VS Code local
+.vscode/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Archivos temporales de Excel
+~$*.xlsx
